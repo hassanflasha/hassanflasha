@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Currently working on building my career as a Data scientist
-I'm Currently learning Inferential Statistics and some Statistical Learning Methods to enhance my knowledge and skills
+I'm Currently learning Inferential Statistics and some Statistical Learning Methods to enhance my knowledge and skills. 
 I'm capable of making Supervised prediction models, Manipulate and analyze data. 
 <!--
 **hassanflasha/hassanflasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
