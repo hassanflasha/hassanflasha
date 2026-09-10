@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm Currently working on building my career as a Data scientist
-I'm Currently learning Inferential Statistics and some Statistical Learning Methods to enhance my knowledge and skills. 
-I'm capable of making Supervised prediction models, Manipulate and analyze data. 
+I'm Currently learning Time Series Analysis with addition of it's applications related to Deep Learning
+My qualifications and achievements are inside my resume.
+My Google Advanced Data Analytics project is inside it's own directory.
 <!--
 **hassanflasha/hassanflasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
